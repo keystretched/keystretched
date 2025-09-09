@@ -4,7 +4,7 @@
 
 
   - [Full Vulnerability Management Program Rollout ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Windows 10 DISA STIG Implementation ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows 10 DISA STIG Implementation ](https://github.com/keystretched/Windows-10-DISA-STIG-Implementation)
 
 
 <h2>📄 Certifications</h2>
