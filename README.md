@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Full Vulnerability Management Program Rollout ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Full Vulnerability Management Program Rollout ](https://github.com/keystretched/Vulnerability-Management-Program/blob/main/README.md)
   - [Windows 10 DISA STIG Implementation ](https://github.com/keystretched/Windows-10-DISA-STIG-Implementation)
 
 
